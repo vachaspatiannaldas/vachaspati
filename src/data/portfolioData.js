@@ -3,7 +3,7 @@
   initials: "VA",
   title: "Full Stack Developer",
   profileImage: "/images/profile/profile.svg",
-  resumeUrl: "https://drive.google.com/file/d/1XPMR6ihn1Wqs9USn96Wk3YlkxVxWJpwG/view?usp=drive_link",
+  resumeUrl: "https://drive.google.com/file/d/1jmjvJPjKrnKwEYHcF-HE9GdMpGOcUCgi/view?usp=drive_link",
   contact: {
     email: "annaldasvachaspati@gmail.com",
     phone: "+91 7020270105",
